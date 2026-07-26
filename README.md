@@ -39,7 +39,7 @@ Escape Math combina la mecánica de un juego de plataformas sencillo (movimiento
 3. Edita `db.properties` con tus credenciales de conexión a MySQL.
 4. Ejecuta `AbrirJuego.bat` (Windows) para compilar y abrir el juego automáticamente.
 
-## 🎯 Controles
+##  Controles
 
 - Mover: `A` / `D` o flechas izquierda/derecha
 - Saltar: `W`, flecha arriba o barra espaciadora
